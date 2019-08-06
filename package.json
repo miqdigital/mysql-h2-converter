@@ -1,0 +1,16 @@
+{
+  "name": "h2converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumita Mudgil",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "replace-in-file": "^4.1.0",
+    "shelljs": "^0.7.8"
+  }
+}
