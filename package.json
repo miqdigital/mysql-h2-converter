@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.4",
-    "replace-in-file": "^4.1.0",
-    "shelljs": "^0.8.5"
+    "replace-in-file": "^8.4.0",
+    "shelljs": "^0.10.0"
   }
 }
